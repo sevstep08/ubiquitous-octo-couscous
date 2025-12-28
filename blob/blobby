@@ -1,0 +1,8 @@
+import tkinter as tk
+root=tk.Tk()
+
+
+blob=tk.Label(root, text="I love you")
+blob.pack()
+
+root.mainloop()
